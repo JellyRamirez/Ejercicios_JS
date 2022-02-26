@@ -54,11 +54,11 @@ console.log('Ejercicio 1: Encontrar número primos');
 num_primo(ejercicio1);
 
 //Ejercicio 2
-/*Ramón quiere hacer una fiesta privada en donde solo entre un número exclusivo de 
+Ramón quiere hacer una fiesta privada en donde solo entre un número exclusivo de 
 personas, ayudale al portero a solo dejar pasar a aquellas personas mayores de edad que sean familiares de Ramón. (con imprimir los usuarios
-que se admitirán basta, usar el arreglo denominado como "ejercicio2").*/
+que se admitirán basta, usar el arreglo denominado como "ejercicio2").
 
-/*lista_2 = [];
+lista_2 = [];
 let admitidos = (lista_2) => {
   lista_2.forEach((persona) => {
   if (persona.edad >= 18 && persona.esFamiliar == true){
@@ -70,13 +70,13 @@ let admitidos = (lista_2) => {
   }
 })}
 
-admitidos(ejercicio2);*/
+admitidos(ejercicio2);
 
 //Ejercicio 3
-/*Con ayuda de ciclos imprime los primeros 50 números
- de la suceción de fibonacci, (1,1,2,3,5,8,13,21).*/
+Con ayuda de ciclos imprime los primeros 50 números
+ de la suceción de fibonacci, (1,1,2,3,5,8,13,21).
 
-/*let fibonacci = (n) => {
+let fibonacci = (n) => {
 let a = 0, b = 0, c = 1;
 console.log(a)
 console.log(c)
@@ -88,4 +88,4 @@ for (i=0; i <=50 ; i++){
 }
 }
 
-fibonacci(50);*/
+fibonacci(50);
